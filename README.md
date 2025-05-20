@@ -86,7 +86,9 @@ int main() {
 ```
 ## OUTPUT
 Simulating Vigenere Cipher
+
 ![Screenshot 2025-03-19 092302](https://github.com/user-attachments/assets/45ec430d-e90c-48b6-b853-c08397b63bed)
+
 
 Input Message : saveethaengineeringcollege
 
